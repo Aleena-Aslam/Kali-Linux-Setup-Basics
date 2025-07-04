@@ -14,4 +14,16 @@ Its flexibility is particularly useful for hackers and security analysts who nee
 **Ethical Hacking**
 
  Ethical hacking is the practice of legally testing computer systems and networks for vulnerabilities with the owner's permission, using the same techniques as malicious hackers but with the goal of improving security. It's a proactive approach to identify and address weaknesses before they can be exploited by cybercriminals. 
+
+ There are 5 phases of Ethical Hacking:
+
+ -Reconnaissance
+ 
+ -Scanning
+ 
+ -Gaining Access
+ 
+ -Maintaining Access
+ 
+ -Clearing Tracks
  
