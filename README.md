@@ -2,7 +2,9 @@
 In this repository we will discuss the very basics of Kali Linux. How to install it and setup on Virtual box. Discuss the few basics ethical hacking tools. 
 
 **Objectives**
+
 -Setup Kali Linux
+
 -Learn Basic Ethical Hacking tools
 
 **What is Kali Linux**
