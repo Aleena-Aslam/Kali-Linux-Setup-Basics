@@ -16,11 +16,10 @@ Then setup kali linux on Virtual Box
 **Kali Linux**
 First install kali linux virtual box image: https://www.kali.org/get-kali/#kali-virtual-machines
 
-Create a new VM:
+New VM:
    - Type: Linux
    - Version: Debian 64-bit
    - RAM: 2GB minimum
    - Storage: 20GB
 
-Boot with ISO and follow installation instructions.
 
