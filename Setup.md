@@ -24,5 +24,7 @@ New VM:
    - Version: Debian 64-bit
    - RAM: 2GB minimum
    - Storage: 20GB
+
 Username: kali
+
 Password: kali
