@@ -24,7 +24,7 @@ To change the default password for the “kali” user, which is also the passwo
 
 - **pwd**
 
-To check the working directory "pwd = pring working directory". entering the following command.
+To check the working directory "pwd = print working directory". entering the following command.
 
 - **ls**
 
